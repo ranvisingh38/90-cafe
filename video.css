@@ -1,0 +1,93 @@
+.logo{
+    border-radius: 50%;
+    border: none; 
+    width:150px;
+    height: 90px;  
+    margin-left: 30px;
+}
+.row{
+    background-color: black;
+    position: fixed;
+    width: 100%;
+    z-index: 2;
+    top: 0px;
+}
+.mainnav{
+  float: right; 
+  padding-top: 20px;
+  padding-right: 250px;
+}
+.mainnav li{
+    display: inline-block;
+    list-style: none;
+    margin-left: 30px;
+}
+.mainnav li a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 17px;
+
+}
+.mainnav li a:hover{
+    color: tomato;
+    font-size:17px ;
+}
+.submenu1{
+    display: none;
+}
+.mainnav li:hover .submenu1{
+    display: block;
+    position: absolute;
+    margin-left: -10px;
+
+}
+.mainnav li:hover .submenu1 ul{
+   display: flex;
+   flex-direction: column; 
+   padding: 5px;
+}
+.mainnav li:hover .submenu1 ul li{
+    width: 80px;
+    padding:7px;
+    border-bottom: 1px dotted black;
+    background: transparent;
+    text-align: left;
+    background-color: black;
+}
+.login{
+    text-align: right;
+    position: fixed;
+    top: 28px;
+    right: 40px;
+    
+}
+.login button{
+    background-color: rgb(75, 75, 81);;
+    color: red;
+    font-size: 13px;
+    width: 80px;
+    height: 30px;
+    font-family:'Times New Roman', Times, serif;
+    border-radius: 2px;
+}
+.register{
+    text-align: right;
+    position: fixed;
+    top: 28px;
+    right: 130px;
+}
+.register button{
+    background-color: rgb(75, 75, 81);;
+    color: red;
+    font-size: 13px;
+    width: 80px;
+    height: 30px;
+    font-family:'Times New Roman', Times, serif;
+    border-radius: 2px;
+}
+.row .fa{
+    margin-right: 5px;
+}
+.video{
+    margin-top: 130px;
+}

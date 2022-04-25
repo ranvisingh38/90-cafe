@@ -1,0 +1,304 @@
+/* media css file  */
+@media only screen and (max-width:1385px){
+    .cmm-container .cmm.cmm-horizontal > li > .cmm-nav-link{
+        padding: 0px 15px 0px 15px;
+    }
+    .cmm-container .cmm.cmm-horizontal > li > .cmm-nav-link:after{
+        right: 0px !important;
+    }
+}
+@media only screen and (max-width:1250px){
+    .cmm-container .cmm.cmm-horizontal > li > .cmm-nav-link{
+        padding: 0px 12px 0px 12px;
+    }
+}
+@media only screen and (max-width:767px){
+    .logo.logoDefault{
+        width: 160px;
+    }
+    .ecom_project input{
+        margin-bottom: 0px !important;
+    }
+    .wpcf7 form .ecom_project .wpcf7-response-output{
+        margin: 0em 0em 1em;
+    }
+    .sliding-menu .off-canvas-wrap{
+        padding-right: 20px;
+        padding-bottom: 50px;
+        padding-left: 20px;
+    }
+    .sliding-menu .off-canvas-toggle{
+        right: 20px;
+    }
+    .footer-widgets .widget{
+        margin-bottom: 15px;
+    }
+    body .site-footer .footer-widgets aside[data-width="4"]{
+        margin-bottom: 0px;
+    }
+    .wpcf7 form .wpcf7-response-output{
+        margin: 0em 0em 1em;
+    }
+    .contact input, .contact select, .contact textarea{
+        margin-bottom: 0px !important;
+    }
+    #site .vc_toggle .vc_toggle_title h4{
+        padding: 20px 50px 20px 20px;
+    }
+    #site .vc_toggle .vc_toggle_content{
+        padding: 0 20px 20px 20px;
+    }
+    .res_center_row_txt .wpb_single_image.vc_align_left{
+        text-align: center;
+    }
+    .res_front_dev_hire_dev_ht .wpb_wrapper .wpb_single_image.vc_align_left, .res_front_dev_hire_dev_ht .wpb_wrapper h6{
+        text-align: center !important;
+    }
+    .res_pt_15{
+        padding-top: 15px;
+    }
+    .res_front_dev_hire_dev_ht{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .res_flex_flex_wrap, .res_leader_flex_div_hs .row-inner{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .res_front_dev_hire_dev_ht .vc_column_container{
+        width: 50%;    
+    }
+    .res_mt_10{
+        margin-top: 10px !important;
+    }
+    .res_pb_20{
+        padding-bottom: 20px !important;
+    }
+    .res_mb_20{
+        margin-bottom: 20px !important;
+    }
+    .res_p_70{
+        padding: 70px 0px!important;
+    }
+    .res_pt_20{
+        padding-top: 20px !important;
+    }
+    .res_pt_0{
+        padding-top: 0px !important;
+    }
+    .res_pr_0 .vc_column-inner{
+        padding-right: 15px !important;
+    }
+    .res_pb_0{
+        padding-bottom: 0px !important;
+    }
+    .res_mb_30{
+        margin-bottom: 30px;
+    }
+    .res_tb_careers_pg_hs .wpb_wrapper{
+        overflow: auto;
+    }
+    .res_p_40{
+        padding: 40px !important;
+    }
+    .res_order_flex_set_img_fst .row-inner .vc_col-sm-6:first-child, .res_order_flex_set_img_fst .vc_col-sm-6:first-child{
+        order: 1;
+    }
+    .res_order_flex_set_img_fst .row-inner .vc_col-sm-6:last-child, .res_order_flex_set_img_fst .vc_col-sm-6:last-childd{
+        order: 0;
+    }
+    .contact_footer_ht  .contact .bottom-fombar label{
+        align-items: start;
+    }
+    .contact_footer_ht  .contact .bottom-fombar label input{
+        min-width: 20px;
+        margin-top: 8px !important;
+        height: 20px !important;
+        padding: 0px !important;
+    }
+    .res_owl_dots_rem_hs .owl-pagination{
+        display: none;
+    }
+    .res_pl_15 .vc_column-inner{
+        padding-left: 15px !important;
+    }
+    .res_pl_0{
+        padding-left: 0px !important;
+    }
+    .res_plr_0{
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+    .res_techpg_plr_0 .vc_column-inner{
+        padding: 0px 15px !important;
+    }
+    .res_tech_img_pd_hs .vc_column-inner{
+        padding: 5% !important;
+    }
+    .res_hd_mrt_0{
+        margin-top: 0px !important;
+    }
+    .res_hd_fz_20{
+        font-size: 20px !important;
+    }
+    .res_hd_pdt_0 {
+        padding-top: 0px !important;
+    }
+    .res_hd_pdt_0 {
+        padding-top: 0px !important;
+    }
+    .res_hd_pdt_10{
+        padding-top: 10px !important;
+    }
+    .comments-area #respond{
+        padding: 20px 0%;
+    }
+    .comment-form .comment-form-cookies-consent{
+        align-items: start;
+    }
+    .comments-area .comment-respond .comment-form .comment-form-cookies-consent > input{
+        margin-top: 4px;
+    }
+    .res_justifly_center_hs{
+        justify-content: center;
+    }
+    .bg_img_none_hs{
+        background-image: unset !important;
+    }
+    .newstyle .box-title{
+        margin-bottom: 0px !important;
+    }
+    .site-footer .footer-widgets aside[data-width="8"]:nth-child(2){
+        padding-bottom: 20px;
+    }
+    .fter_copy_right_content_hs{
+        justify-content: center;
+    }
+    .widget.widget_nav_menu.menu-style2.columns-1 .menu > li:first-child {
+        width: 100%;
+    }
+    .widget.widget_nav_menu.menu-style2.columns-1 .menu > li:nth-child(2){
+        width: 100%;
+        padding-left: 15px;
+    }
+    .ftr_ul_sub_menu_hs > .sub-menu{
+        grid-template-columns: repeat(2, 1fr);
+        column-gap: 10px;
+    }
+    .first_ftr_ul_sub_menu_hs > .sub-menu{
+        grid-template-columns: repeat(2, 1fr);
+        column-gap: 10px;
+    }
+    .mn_ftr_social_links_hs{
+        grid-template-columns: repeat(1, 1fr);
+        row-gap: 20px;
+    }
+    .address_cntnt_ftr{
+        padding-left: 0px;
+    }
+    .logo_cnt_ft_hash{
+        padding-right: 0px;
+        border-right: unset;
+    }
+}
+@media only screen and (max-width:479px){
+    .mn_ftr_social_links_hs{
+        margin-left: 0px;
+    }
+    .fter_copy_right_content_hs p{
+        font-size: 13px;
+    }
+    /* .fter_copy_right_content_hs a{
+        font-size: 16px;
+    } */
+    .fter_copy_right_content_hs p{
+        text-align: center;
+    }
+    .site-footer .footer-widgets aside[data-width="8"]:nth-child(2){
+        flex-wrap: wrap;
+    }
+    .comments-area .comment-respond .comment-form .comment-form-cookies-consent > input{
+        margin-top: 0px;
+    }
+    .comments-area .comment-respond .comment-form .comment-form-cookies-consent > input{
+        width: 25px;
+        height: 25px;
+    }
+    #site .iconbox{
+        padding: 5%;
+    }
+    #site .iconbox .box-icon{
+        margin: 20px 0 10px 0 !important;
+    }
+    #site .iconbox.style2 .box-icon{
+        margin: 20px 0 20px 0;
+    }
+    #site .iconbox.style4{
+        padding: 6%;
+    }
+    #site .iconbox.style4 .box-title{
+        margin: 0 0 0px 0;
+    }
+    .widget.widget_nav_menu.menu-style2 .menu > li{
+        margin: 0 0 20px 0;
+    }
+    .projects-grid .project .project-inner .project-info{
+        padding: 0 0;
+    }
+    table tbody tr td, table thead tr th, table tbody tr th{
+        padding: 6px 20px;
+    }
+    .res_p_40{
+        padding: 20px !important;
+    }
+    .res_ft_ser_size_h3_hs{
+        font-size: 1.4rem;
+    }
+    .widget > .widget-title{
+        margin-bottom: 15px;
+    }
+    input, select {
+        height: 45px;
+    }
+    .res_core_values_hs{
+        padding-right: 2% !important;
+        padding-left: 2% !important;
+    }
+    .contact input, .contact select{
+        padding: 0px 15px !important;
+    }
+    .contact textarea{
+        padding: 10px 15px !important;
+    }
+    .vc_separator.vc_sep_border_width_10 .vc_sep_holder .vc_sep_line{
+        border-top-width: 5px;
+    }
+    .ftr_ul_sub_menu_hs > .sub-menu{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .first_ftr_ul_sub_menu_hs > .sub-menu{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    #menu-footer-menu  ul.sub-menu li a{
+        font-size: 14px;
+    }
+    body .site-footer .textwidget .social_media_icons_ftr_hash{
+        margin-top: 15px !important;
+        text-align: left;
+    }
+    .logo_cnt_ft_hash{
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+    .address_cntnt_ftr p br {
+        display: none;
+    }
+    .mn_ftr_social_links_hs{
+        row-gap: 15px;
+    }
+}
+@media only screen and (min-width: 320px) and (max-width: 544px){
+    .widget.widget_nav_menu.menu-style2.columns-3 .menu > li{
+        width: 100% !important;
+    }
+}
